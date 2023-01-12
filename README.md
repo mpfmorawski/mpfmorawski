@@ -3,7 +3,7 @@
 
 🟠 My name is Maciej Morawski! 🙋‍♂️
 
-⚫ I'm a Data Science / Backend Developer Intern living in Warsaw. 🏙️
+⚫ I'm a Data Science / Backend Developer Intern living in Warsaw, Poland. 🏙️
 
 🟠 I'm interested in AI, Robotics and... all those amazing things you can do using Python 🐍
 
