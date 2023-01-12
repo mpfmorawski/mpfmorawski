@@ -11,3 +11,7 @@
 
 🟠 that's not the end of my university education! I'm still a Computer Science Student @ WUT 💻
 
+<br>
+
+Hope you will find something interesting for yourself here! 
+
