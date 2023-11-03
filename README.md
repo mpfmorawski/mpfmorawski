@@ -5,7 +5,7 @@
 
 ⚫ I'm Python Backend Developer living in Warsaw, Poland 🏙️
 
-🟠 Interested in AI, Robotics and... all those amazing things you can do using Python 🐍
+🟠 Interested in Machine Learning, Robotics and... exploring the limitless potential of Python 🐍
 
 ⚫ Graduated with MSE degree in Computer Science from WUT... 💻
 
