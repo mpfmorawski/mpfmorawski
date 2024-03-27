@@ -3,7 +3,7 @@
 
 🟠 My name is Maciej Morawski 🙋‍♂️
 
-⚫ I'm Python Backend Developer living in Warsaw, Poland 🏙️
+⚫ I'm NLP and DataOps Engineer living in Warsaw, Poland 🏙️
 
 🟠 Interested in Machine Learning, Robotics and... exploring the limitless potential of Python 🐍
 
