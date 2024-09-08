@@ -5,7 +5,7 @@
 
 ⚫ I'm NLP and DataOps Engineer living in Warsaw, Poland 🏙️
 
-🟠 Interested in Machine Learning, Robotics and... exploring the limitless potential of Python 🐍
+🟠 Interested in Software Engineering, Machine Learning and Robotics, particularly exploring the limitless potential of Python! 🐍
 
 ⚫ Graduated with MSE degree in Computer Science from WUT... 💻
 
